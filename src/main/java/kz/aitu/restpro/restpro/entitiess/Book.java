@@ -1,7 +1,7 @@
 package kz.aitu.restpro.restpro.entitiess;
 import java.util.Objects;
 
-class Book {
+public class Book {
     private String title;
     private String author;
     private String ISBN;
